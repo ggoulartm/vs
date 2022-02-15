@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Aplicativo para visualizar gráficos dos dados da telemetria dos barcos da Vento Sul
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
