@@ -102,7 +102,7 @@ return(
                   }}
           label="Tensão"
           // tickFormat specifies how ticks should be displayed
-          tickFormat={(x) => (`${x / 1500} V`)}
+          tickFormat={(x) => (`${x / 2000} V`)}
           tickLabelComponent={<VictoryLabel dy={20}/>}
         />
         <VictoryBar
