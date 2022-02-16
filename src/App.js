@@ -55,6 +55,7 @@ function App() {
       <header className="App-header">
       <h1>Telemetria</h1><center>
        <SelectGraph />
+       <br></br>
        <img src={logo} className="App-logo" alt="logo" />
      </center><p></p>
       </header>
